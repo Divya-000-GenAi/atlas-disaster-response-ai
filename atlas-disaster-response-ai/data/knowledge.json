@@ -1,0 +1,44 @@
+[
+  {
+    "id": "DOC-001",
+    "title": "Flood Shelter Checklist",
+    "kind": "procedure",
+    "text": "For flood preparedness, review shelter accessibility, sanitation, drinking water availability, staffing rosters, and accessible transportation. Verify all details with local authorities before use."
+  },
+  {
+    "id": "DOC-002",
+    "title": "Wildfire Planning Checklist",
+    "kind": "procedure",
+    "text": "For wildfire planning, review smoke exposure mitigation, evacuation communication channels, responder protective equipment, and air-quality information from official sources."
+  },
+  {
+    "id": "DOC-003",
+    "title": "Earthquake Assessment Checklist",
+    "kind": "procedure",
+    "text": "After earthquake scenarios, coordinate structural safety assessments by qualified engineers, identify blocked roads, and review temporary shelter options."
+  },
+  {
+    "id": "DOC-004",
+    "title": "Storm Operations Checklist",
+    "kind": "procedure",
+    "text": "For storm preparation, review wind alerts, flood-prone crossings, backup power readiness, and official weather bulletins."
+  },
+  {
+    "id": "DOC-005",
+    "title": "Resource Allocation SOP",
+    "kind": "policy",
+    "text": "Resource allocation proposals must be checked against actual team availability, training, access restrictions, and approvals. Never automatically dispatch teams from model output."
+  },
+  {
+    "id": "DOC-006",
+    "title": "Evidence Quality Policy",
+    "kind": "policy",
+    "text": "When no relevant evidence is retrieved, abstain from specific operational recommendations and escalate to a qualified coordinator. Cite the source identifier for each retrieved document."
+  },
+  {
+    "id": "DOC-007",
+    "title": "Public Communications SOP",
+    "kind": "policy",
+    "text": "Draft public communications must be reviewed by authorized personnel and grounded in verified local alerts. Never represent synthetic data as live situational awareness."
+  }
+]

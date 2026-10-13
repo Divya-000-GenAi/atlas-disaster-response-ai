@@ -1,0 +1,10 @@
+{
+  "question": "Which flood shelter preparations should be reviewed?",
+  "region": "North Valley",
+  "incident_type": "flood",
+  "severity": 4,
+  "affected_population": 2500,
+  "rainfall_mm": 130,
+  "wind_kmh": 20,
+  "available_teams": 5
+}
